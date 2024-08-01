@@ -1,0 +1,14 @@
+Generate a concise list of SEO optimized titles focused on "<<keyword>>" 
+Cluster and Use a variety of related long-tail keywords, related sub-niches for maximum diversity.
+Ensure each title is unique to Avoid content duplication,content overlap and keyword cannibalism.
+Avoid commercial intent keywords such as "guide", "near me," "classes," "shops," "reviews," "best places," or "best app." 
+Only provide the titles, not the keyword clusters.
+the titles should not exceed 80 characters.
+here is the keyword again : "<<keyword>>" 
+Please do not explain yourself, do not interfere, just start to write.
+
+
+
+
+
+
